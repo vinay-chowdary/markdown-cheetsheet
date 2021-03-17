@@ -1,5 +1,5 @@
 <!-- Markdown sheet sheet -->
-<!-- <style>
+<style>
     /* h1{
         color:yellow;
         background:#00000050;
@@ -11,7 +11,7 @@
         width:300px;
         object-fit:cover;
     }
-</style> -->
+</style>
 > # Sections
 - [Headings](#headings)
 - [Bold](#bold)
