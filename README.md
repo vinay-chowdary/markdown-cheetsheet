@@ -148,6 +148,7 @@ console.log(name);
 | align left | align center | right justify |
 | column 1   |   column 2   |      column 3 |
 
+[
 <style>
     /* h1{
         color:yellow;
@@ -161,3 +162,4 @@ console.log(name);
         object-fit:cover;
     }
 </style>
+]
