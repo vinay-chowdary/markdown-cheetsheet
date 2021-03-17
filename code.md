@@ -1,17 +1,5 @@
 <!-- Markdown sheet sheet -->
-<!-- <style>
-    /* h1{
-        color:yellow;
-        background:#00000050;
-    } */
-    th{
-      color:green;  
-    }
-    img{
-        width:300px;
-        object-fit:cover;
-    }
-</style> -->
+
 > # Sections
 - [Headings](#headings)
 - [Bold](#bold)
@@ -160,9 +148,6 @@ console.log(name);
 | align left | align center | right justify |
 | column 1   |   column 2   |      column 3 |
 
-<<<<<<< HEAD
-
-=======
 <style>
     /* h1{
         color:yellow;
@@ -176,4 +161,3 @@ console.log(name);
         object-fit:cover;
     }
 </style>
->>>>>>> parent of fffcb7b (removing style tag from appearance)
